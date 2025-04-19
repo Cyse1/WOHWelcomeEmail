@@ -1,0 +1,297 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <!-- Logo Section -->
+    <mj-section background-color="#FBF8F2" padding="10px 10px 0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://www.stevenme.com/email-images/WOH1/WOHLogo.png"
+          alt="Wags of Hope Logo"
+          width="100px"
+          href="https://wagsofhope.netlify.app/"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Image -->
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://www.stevenme.com/email-images/WOH1/WOFBanner.png"
+          alt="Are you ready to make a difference"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Welcome Text -->
+    <mj-section background-color="#ffffff" padding="30px 20px">
+      <mj-column>
+        <mj-text
+          font-family="Poppins, Arial, sans-serif"
+          align="center"
+          font-size="24px"
+          font-weight="600"
+          color="#333333"
+        >
+          Welcome to the Wags of Hope Family!
+        </mj-text>
+        <mj-text
+          font-family="Poppins, Arial, sans-serif"
+          align="center"
+          font-size="16px"
+          color="#555555"
+          padding="10px 20px"
+          line-height="1.6"
+        >
+          At Wags of Hope, we believe that every dog deserves a second chance to
+          love and be loved. We rescue dogs from uncertain futures, provide them
+          with the care they need, and connect them with families who will
+          cherish them forever. Your support helps turn heartbreaking stories
+          into beautiful new beginnings — one wag at a time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- DIvider -->
+    <mj-section background-color="#ffffff" padding-top="0px">
+      <mj-column>
+        <mj-divider border-color="#f7c948" border-width="1px" width="70%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Multi Section -->
+    <mj-section background-color="#ffffff">
+      <mj-column
+        padding="10px"
+        inner-background-color="#FBF8F2"
+        inner-border-radius="10px"
+      >
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="600"
+          color="#333333"
+          padding-bottom="10px"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          🐾 Adopt
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="16px"
+          color="#777777"
+          line-height="1.5"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          Find your new best friend and change two lives forever&mdash; yours
+          and theirs.
+        </mj-text>
+      </mj-column>
+      <mj-column
+        padding="10px"
+        inner-background-color="#FBF8F2"
+        inner-border-radius="10px"
+      >
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="600"
+          color="#333333"
+          padding-bottom="10px"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          🐾 Foster
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="16px"
+          color="#777777"
+          line-height="1.5"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          Open your home to a dog in need and help them transition to a forever
+          home.
+        </mj-text>
+      </mj-column>
+      <mj-column
+        padding="10px"
+        inner-background-color="#FBF8F2"
+        inner-border-radius="10px"
+      >
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="600"
+          color="#333333"
+          padding-bottom="10px"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          🐾 Donate
+        </mj-text>
+        <mj-text
+          align="center"
+          font-size="16px"
+          color="#777777"
+          line-height="1.5"
+          font-family="Poppins, Arial, sans-serif"
+        >
+          Every dollar provides food, shelter, and a second chance for a dog in
+          need.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA Button -->
+    <mj-section background-color="#ffffff" padding-bottom="40px">
+      <mj-column>
+        <mj-button
+          background-color="#f7c948"
+          border-radius="30px"
+          padding="15px 30px"
+          font-weight="bold"
+          color="#333333"
+          font-size="18px"
+          font-family="Poppins, Arial, sans-serif"
+          href="https://wagsofhope.netlify.app"
+        >
+          Ways To Help
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- DIvider -->
+    <mj-section background-color="#ffffff" padding-top="0px">
+      <mj-column>
+        <mj-divider border-color="#f7c948" border-width="1px" width="70%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- About our Founder Text -->
+    <mj-section background-color="#ffffff" padding="30px 20px">
+      <mj-column>
+        <mj-text
+          font-family="Poppins, Arial, sans-serif"
+          align="center"
+          font-size="24px"
+          font-weight="600"
+          color="#333333"
+        >
+          🐾 About Our Founder
+        </mj-text>
+        <mj-image
+          width="150px"
+          height="150px"
+          src="https://www.stevenme.com/email-images/WOH1/WOHFounder.png"
+          alt="Our Founder Caroline And Her Dog"
+        />
+        <mj-text
+          font-family="Poppins, Arial, sans-serif"
+          align="center"
+          font-size="16px"
+          color="#555555"
+          padding="10px 20px"
+          line-height="1.6"
+        >
+          Wags of Hope started with one small act of kindness — and a heart that
+          couldn’t walk away.<br /><br />
+          Caroline founded Wags of Hope out of a simple belief: that every
+          animal deserves love, safety, and a second chance.<br /><br />
+          What began with helping one dog has grown into a mission fueled by
+          compassion, community, and a whole lot of hope. Thank you for being
+          part of this journey — it wouldn’t be possible without people like
+          you.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- DIvider -->
+    <mj-section background-color="#ffffff" padding-top="0px">
+      <mj-column>
+        <mj-divider border-color="#f7c948" border-width="1px" width="70%" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Txt before last CTA -->
+    <mj-section background-color="#ffffff" padding="0 20px 20px">
+      <mj-column>
+        <mj-text
+          font-family="Poppins, Arial, sans-serif"
+          align="center"
+          font-size="16px"
+          padding="10px 20px"
+          line-height="1.5"
+          color="#555555"
+        >
+          Every journey to a forever home starts<br />
+          with hope &mdash; and with you.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Last CTA -->
+
+    <!-- CTA Button -->
+    <mj-section
+      background-color="#ffffff"
+      padding-bottom="40px"
+      padding-top="0"
+    >
+      <mj-column>
+        <mj-button
+          background-color="#f7c948"
+          border-radius="30px"
+          padding="0px 30px 15px"
+          font-weight="bold"
+          color="#333333"
+          font-size="18px"
+          font-family="Poppins, Arial, sans-serif"
+          href="https://wagsofhope.netlify.app"
+        >
+          Be Part of The Journey
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#f2f2f2" padding="20px">
+      <mj-column>
+        <mj-text
+          font-family="Poppins, Arial, sans-serif"
+          font-size="12px"
+          color="#777777"
+          align="center"
+        >
+          © 2025 Wags of Hope. All rights reserved.<br />
+          1234 Hope Lane, Dogtown, USA
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f2f2f2" padding="0 20px 20px">
+      <mj-column>
+        <mj-text
+          font-family="Poppins, Arial, sans-serif"
+          font-size="10px"
+          color="#999999"
+          align="center"
+          line-height="1.5"
+        >
+          You are receiving this email because you joined Wags of Hope or
+          expressed interest in supporting our mission.<br /><br />
+          <a
+            href="https://unsubscribe1.netlify.app"
+            style="color: #999999; text-decoration: underline"
+            >Unsubscribe</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
